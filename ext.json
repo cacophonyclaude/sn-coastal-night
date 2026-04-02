@@ -1,0 +1,10 @@
+{
+  "identifier": "com.bytebeet.coastal-night",
+  "name": "Coastal Night",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "version": "1.0.0",
+  "description": "A dark theme for Standard Notes.",
+  "url": "https://bytebeet.github.io/sn-coastal-night/dist/dist.css",
+  "latest_url": "https://bytebeet.github.io/sn-coastal-night/ext.json"
+}
